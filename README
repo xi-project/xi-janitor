@@ -1,1 +1,3 @@
 Timed task (cron job) library for Zend Framework applications.
+
+php janitor.php janitorName --argument1 --argument2=luss
