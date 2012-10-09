@@ -1,5 +1,5 @@
 {
-    "name": "xi/zend-filelib",
+    "name": "xi/janitor",
     "type": "library",
     "description": "Janitor framework for ZF1",
     "keywords": ["janitor", "cron"],
