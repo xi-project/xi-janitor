@@ -1,0 +1,30 @@
+{
+    "name": "xi/zend-filelib",
+    "type": "library",
+    "description": "Janitor framework for ZF1",
+    "keywords": ["janitor", "cron"],
+    "homepage": "http://github.com/xi-project/xi-janitor",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Mikko Forsström",
+            "email": "pekkisx@gmail.com",
+            "homepage": "http://diktaattoriporssi.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+    "require-dev": {
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Xi\\Janitor": "library/"
+        }
+    },
+    "minimum-stability": "dev"
+}
